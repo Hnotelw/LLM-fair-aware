@@ -1,4 +1,4 @@
-# Can LLMs identify fair recommendations?
+# Fairness Recommendations Based on LLMs' Sense of Fairness
 The code of the recommendation model in this article comes from "Providing Previously Unseen Users Fair Recommendations Using Variational Autoencoders" https://github.com/BjornarVass/fair-vae-rec
 
 Code modifications:
