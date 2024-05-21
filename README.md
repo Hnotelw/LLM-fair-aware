@@ -1,4 +1,4 @@
-# LLM-fair-aware
+# Can LLMs identify fair recommendations?
 The code of the recommendation model in this article comes from "Providing Previously Unseen Users Fair Recommendations Using Variational Autoencoders"
 Code modifications:
 (1) Remove re-indexing of items
